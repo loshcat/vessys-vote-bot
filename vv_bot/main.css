@@ -1,0 +1,59 @@
+fieldset {
+	float: left;
+	clear: left;
+	width: 100%;
+	margin: 0 0 1.5em 0;
+	padding: 0;
+}
+
+legend {
+	margin-left: 1em;
+	color: #000000;
+	font-weight: bold;
+}
+
+fieldset ol {
+	padding: 1em 1em 0 1em;
+	list-style: none;
+}
+
+fieldset li {
+	float: left;
+	clear: left;
+	width: 100%;
+	padding-bottom: 1em;
+}
+
+fieldset div input {
+	width: 100%;
+	margin-bottom: 1em;
+}
+
+label {
+	float: left;
+	width: 14em;
+	margin-right: 1em;
+}
+
+.buttonCon {
+	float: left;
+	clear: left;
+	width: 8.5em;
+	margin-left: 7.7em;
+}
+
+.timerb_on {
+	background-color: forestgreen;
+	color: white;
+	border: 2px solid darkslateblue;
+}
+
+.timerb_off {
+	background-color: firebrick;
+	color: white;
+	border: 2px solid darkslateblue;
+}
+
+#timerStopper {
+	width: 100%;
+}
